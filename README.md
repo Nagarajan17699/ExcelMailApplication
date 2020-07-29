@@ -9,3 +9,15 @@ CSS</br>
 
 ## Date
 29 July 2020
+
+## JARs Used
+commons-fileupload-1.4</br>
+commons-fileupload-1.4-javadoc (doucumentation) </br>
+commons-io-2.4</br>
+poi-ooxml-3.14-20160307</br>
+poi-ooxml-schemas-3.14-20160307</br>
+poi-3.14-20160307</br>
+xmlbeans-2.6.0</br>
+javax.mail
+activation
+JDK 1.8
