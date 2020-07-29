@@ -18,6 +18,6 @@ poi-ooxml-3.14-20160307</br>
 poi-ooxml-schemas-3.14-20160307</br>
 poi-3.14-20160307</br>
 xmlbeans-2.6.0</br>
-javax.mail
-activation
+javax.mail</.br>
+activation </br>
 JDK 1.8
