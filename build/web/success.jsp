@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>ExcelMailApplication</title>
+        <!-- CSS only -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">
+<!-- JS, Popper.js, and jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    </head>
+    <body>
+       <div class="container-fluid no-padding" >
+        <div class="row height-50 ">
+           <div class="col-sm-4" style="background-color: aquamarine;"></div>
+           <div class="col-sm-5 pl-5 pt-4" style="background-color: aquamarine; font-size:x-large;" >&nbsp;Excel&nbsp; Mail&nbsp; Application</div>
+           <div class="col-sm-3" style="background-color: aquamarine;"></div>
+        </div>
+       </div>
+        <div class="container-fluid no-padding">
+            <div class="row" style="padding-top: 200px;">
+                <div class="col-sm-4"></div>
+                <div class="col-sm-5 pl-5">
+                    <h2> Message Sent Successfully !</h2>
+                </div>
+                <div class="col-sm-3"></div>
+            </div>
+            
+        </div> 
+       
+           
+       
+    </body>
+</html>
+
+
+<!-- 
+<label for="subject">Subject:</label>
+<input type="text" id="subject"><br>
+<label class="pt-2"  for="message">Message:</label>
+<input  class="pt-2"style="height: 100px;" type="text" id="message"><br>
+<label  class="t-2"for="excel">Select File:</label>
+<input  class="pt-2"type="file" id="excel"></i> -->

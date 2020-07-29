@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Jul, 2020, 1:20:26 AM
+    Author     : Nagarajan
+*/
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .height-50{
+      height: 70px;
+  }
+  input{
+      line-height: 2em;
+  }
+  input.message{
+      line-height: 5em;
+  }
