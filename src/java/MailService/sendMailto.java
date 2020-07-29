@@ -17,8 +17,8 @@ import javax.mail.internet.MimeMessage;
 public class sendMailto {
 
     public String send(String messege, String subject, String to) {
-        final String user = "nagarajan17699@gmail.com";//change accordingly  
-        final String pass = "nagarajan1706";
+        final String user = "Insert Mail ID";//change accordingly  
+        final String pass = "Insert Password"; // to use gmail, enable less secure apps option.
         Properties props = new Properties();
         props.put("mail.smtp.host", "smtp.gmail.com");//change accordingly  
         props.put("mail.smtp.port", "587");	
